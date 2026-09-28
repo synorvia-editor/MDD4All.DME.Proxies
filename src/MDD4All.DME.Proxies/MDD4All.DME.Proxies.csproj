@@ -8,9 +8,9 @@
        build hands in the real one, read from src/version.txt plus the run number. -->
   <PropertyGroup>
     <Version>2.0.0.0</Version>
-    <Authors>mDuckLab</Authors>
+    <Authors>Dr. Oliver Alt, mDuckLab</Authors>
     <Company>MDD4All.de</Company>
-    <Copyright>© 2026 mDuckLab</Copyright>
+    <Copyright>(c) 2026 oalt, mDuckLab</Copyright>
     <Description>Reads and writes an object graph as JSON or XML behind one shape each, so the calling code does not have to know which library sits underneath. Brings a converter for dictionaries whose key is an object - something JSON has no direct form for.</Description>
     <PackageTags>Serialization Json Xml Dictionary ObjectGraph</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
